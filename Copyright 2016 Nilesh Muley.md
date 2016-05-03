@@ -1,0 +1,1 @@
+The program is distributed under the terms of the GNU Genral Public License (Lesser GPL) 
